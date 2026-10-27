@@ -4,7 +4,7 @@ A simple GPU stress and performance viewer for Linux. It renders a scene of
 reflective, spinning metallic spheres and shows live FPS and frame times, so you
 can quickly see how your GPU handles a load and compare GPUs on the same machine.
 
-![Reflector demo](https://raw.githubusercontent.com/pradosh-arduino/Reflector/main/image.png)
+![Reflector demo](https://raw.githubusercontent.com/PradoshGame/Reflector/main/image.png)
 
 ## Features
 
@@ -28,7 +28,7 @@ can quickly see how your GPU handles a load and compare GPUs on the same machine
 ## Installation
 
 ```sh
-git clone https://github.com/pradosh-arduino/Reflector.git
+git clone https://github.com/PradoshGame/Reflector.git
 cd Reflector
 make install
 ```
